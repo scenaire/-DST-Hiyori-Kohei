@@ -1,6 +1,6 @@
 -- This information tells other players more about the mod
 name = "Hiyori & Kohei"
-description = "a highschool girl with a farm guy that fell into DST world."
+description = "a highschool girl with a farmer guy that fell into DST world."
 author = "Scenaire"
 version = "1" -- This is the version of the template. Change it to your own number.
 

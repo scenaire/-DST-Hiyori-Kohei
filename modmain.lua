@@ -1,6 +1,6 @@
 PrefabFiles = {
-	"esctemplate",
-	"esctemplate_none",
+	"hanacouple",
+	"hanacouple_none",
 }
 
 Assets = {
